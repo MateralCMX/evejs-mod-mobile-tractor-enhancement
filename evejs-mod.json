@@ -1,0 +1,37 @@
+{
+  "author": {
+    "id": "au-muxt6kcyxsf4",
+    "keyId": "54c1f8afabfe",
+    "name": "Materal"
+  },
+  "category": "玩法",
+  "changelog": "",
+  "conflicts": [],
+  "delisted": false,
+  "description": "为财团目标牵引装置(81951)添加多目标牵引、自动打捞功能。",
+  "displayName": "牵引装置增强",
+  "downloadUrls": [
+    {
+      "mirror": "github",
+      "priority": 1,
+      "url": "https://github.com/MateralCMX/evejs-mod-mobile-tractor-enhancement/releases/download/v0.1.0/mobile-tractor-enhancement-0.1.0.zip"
+    }
+  ],
+  "evejsVersions": [
+    "0.12.9"
+  ],
+  "featured": false,
+  "highlights": [],
+  "history": [],
+  "id": "mobile-tractor-enhancement",
+  "publishedAt": "2026-10-16",
+  "readme": [
+    "模组 ID：`mobile-tractor-enhancement`。对应总体清单 P08、P09；与 P10 打捞修复分开启停。目标 EveJS 0.12.9、启动器总线 API 1，来源为 `F:\\EVE_0.1.29` 最终牵引实现。"
+  ],
+  "repo": "https://github.com/MateralCMX/evejs-mod-mobile-tractor-enhancement",
+  "requiresRestart": true,
+  "sha256": "bed65c1dc8484d234ac7639dafbb3b20a5330b02fe8a2de5f617a9804593411b",
+  "sizeBytes": 23618,
+  "tags": [],
+  "version": "0.1.0"
+}
