@@ -8,7 +8,7 @@
   "changelog": "",
   "conflicts": [],
   "delisted": false,
-  "description": "为财团目标牵引装置(81951)添加多目标牵引、自动打捞功能。",
+  "description": "支持移动牵引装置同时牵引多个目标，强化财团装置的牵引速度，并在拾取后自动打捞残骸。",
   "displayName": "牵引装置增强",
   "downloadUrls": [
     {
@@ -21,12 +21,20 @@
     "0.12.9"
   ],
   "featured": false,
-  "highlights": [],
+  "highlights": [
+    "移动牵引装置可按自身目标槽位同时牵引多个目标，优先选择附近目标。",
+    "财团装置支持 12 个目标，牵引速度为 5000 米／秒。",
+    "财团装置牵引范围为 200 公里，容量为 27000 立方米。",
+    "财团装置收取普通掉落后自动打捞残骸；成功打捞仍可能没有材料。",
+    "可搭配“打捞修复”，按残骸类别产出 T1、T2 或 T3 材料。"
+  ],
   "history": [],
   "id": "mobile-tractor-enhancement",
   "publishedAt": "2026-10-16",
   "readme": [
-    "模组 ID：`mobile-tractor-enhancement`。对应总体清单 P08、P09；与 P10 打捞修复分开启停。目标 EveJS 0.12.9、启动器总线 API 1，来源为 `F:\\EVE_0.1.29` 最终牵引实现。"
+    "支持移动牵引装置同时牵引多个目标，强化财团装置的牵引速度，并在拾取后自动打捞残骸。",
+    "启用后重启游戏服务端，再按通常方式部署牵引装置。自动打捞仅适用于财团型号；物品权限和货仓容量限制仍然有效。客户端属性面板可能仍显示原有数值。",
+    "停用前请先回收正在工作的牵引装置，再重启游戏服务端。"
   ],
   "repo": "https://github.com/MateralCMX/evejs-mod-mobile-tractor-enhancement",
   "requiresRestart": true,
