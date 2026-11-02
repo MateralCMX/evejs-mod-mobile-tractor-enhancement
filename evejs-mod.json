@@ -14,11 +14,11 @@
     {
       "mirror": "github",
       "priority": 1,
-      "url": "https://github.com/MateralCMX/evejs-mod-mobile-tractor-enhancement/releases/download/v0.1.0/mobile-tractor-enhancement-0.1.0.zip"
+      "url": "https://github.com/MateralCMX/evejs-mod-mobile-tractor-enhancement/releases/download/v0.1.3/mobile-tractor-enhancement-0.1.3.zip"
     }
   ],
   "evejsVersions": [
-    "0.12.9"
+    "261028.1"
   ],
   "featured": false,
   "highlights": [
@@ -30,16 +30,15 @@
   ],
   "history": [],
   "id": "mobile-tractor-enhancement",
-  "publishedAt": "2026-10-16",
+  "publishedAt": "2026-11-02",
   "readme": [
-    "支持移动牵引装置同时牵引多个目标，强化财团装置的牵引速度，并在拾取后自动打捞残骸。",
     "启用后重启游戏服务端，再按通常方式部署牵引装置。自动打捞仅适用于财团型号；物品权限和货仓容量限制仍然有效。客户端属性面板可能仍显示原有数值。",
     "停用前请先回收正在工作的牵引装置，再重启游戏服务端。"
   ],
   "repo": "https://github.com/MateralCMX/evejs-mod-mobile-tractor-enhancement",
   "requiresRestart": true,
-  "sha256": "bed65c1dc8484d234ac7639dafbb3b20a5330b02fe8a2de5f617a9804593411b",
-  "sizeBytes": 23618,
+  "sha256": "b24ee5dfe11f28fb4bdc575dbf8ec888d9b60b8f561a030a3bb7c09776c42d8e",
+  "sizeBytes": 29214,
   "tags": [],
-  "version": "0.1.0"
+  "version": "0.1.3"
 }
